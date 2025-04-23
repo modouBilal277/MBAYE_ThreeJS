@@ -7,7 +7,6 @@ Une démonstration interactive en **Three.js** permettant de manipuler un cube 3
 ```
 MBAYE_ThreeJS/
 ├── node_modules/         # Modules Node.js
-├── cube.png              # Image d'aperçu ou illustration
 ├── index.html            # Page HTML principale
 ├── main.js               # Script JavaScript principal
 ├── package.json          # Dépendances et métadonnées du projet
